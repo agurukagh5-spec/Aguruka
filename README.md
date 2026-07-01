@@ -1,4 +1,4 @@
-# Aguruka
+# Agurukagh
 # Hi there, I'm Godwin Aguruka 👋
 
 ### 🚀 Network & Cybersecurity Engineer
@@ -33,7 +33,6 @@ I specialize in designing, configuring, and securing technical infrastructure. C
 
 ### 🤝 Connect with Me
 
-- **LinkedIn:** [Godwin Aguruka](https://linkedin.com/in/)
-- **Email:** [agurukagh.email@example.com]
+- **LinkedIn:**(https://www.linkedin.com/in/godwin-aguruka-b391743b7
+- **Email:** [agurukagh5@gmail.com]
 
-⚡ *Fun fact: When I'm not configuring routing protocols or setting up network labs, you can find me analyzing fight cards or keeping up with international football.*
